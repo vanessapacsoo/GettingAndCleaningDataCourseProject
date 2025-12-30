@@ -7,7 +7,7 @@ The R script `run_analysis.R` is used to clean and tidy the Human Activity Recog
 
 Files
 ================================================================================
-- run_analysis.R: Performs data cleaning and merging to create tidy_data_avg.txt 
+- run_analysis.R: Performs data cleaning and merging to create tidy_data.txt 
 - CodeBook.md: Describes variables and transformations
 - tidy_data.txt: Final tidy dataset
 
